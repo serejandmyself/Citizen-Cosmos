@@ -4,7 +4,9 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 
 [Anchor](https://anchor.fm/citizencosmos) | [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss) 
 
-https://i.postimg.cc/wvQCZ8hg/4962920-1587655187159-beec1fb4620ca.jpg
+<div align="center">
+ <img src="CitizenCosmosLogo.jpg" width="320" />
+</div>
 
 List of Episodes:
 
