@@ -2,7 +2,7 @@
 
 Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
 
-<div align="left">
+<div align="center">
  <img src="CitizenCosmosLogo.jpg" width="320" />
 </div>
 
