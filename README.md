@@ -10,41 +10,43 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 
 **Sign to [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss)** 
 
+**Find us on [web3 and IPFS with cyber.page](https://cyber.page/search/citizen%20cosmos)**
+
 <hr>
 
 __List of Episodes:__
 
 1: [Gavin from Figment Networks. Governance](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmaKBaBnfqUkK789dtk2UWZzfTdti7DRYuapQz8CRWJFZh)
 
 2: [Jack Zampolin, Game of Zones & IBC](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmefwgCNkRJ7qNG2aNPYDhfiN3QSm3w7auUoEYqNK6qLrM)
 
 3: [Kwun Yeung, Forbole & Desmos](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) 
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmXsUHhLCDo9aXqVMbGpVicoYw7Z98DEaC4525Kp9bG96v)
 
 4: [Sunny Aggarwal, Tendermint & Sikka](https://anchor.fm/citizencosmos/episodes/Sunny-Aggarwal--Tendermint--Sikka-edpmcj)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmPpZNj7BnxZX9DKaaXrFv12FTEg4xcTARhjJNmapLQwuV)
 
 5: [Lee Hyung Yeon, Bharvest & Data Privacy](https://anchor.fm/citizencosmos/episodes/Lee-Hyung-Yeon--Bharvest--Data-Privacy-ee1vus)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmPcMxcewrEeRbYH2zEkuqvCZZLgZJ2XQ9sZuRkqTVsxn7)
 
 6: [JK, Stake.Fish, Technology, Cosmos and staking](https://anchor.fm/citizencosmos/episodes/JK--Stake-Fish--tech-adoption-eee4cj)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmUFWJVKY1KftPLEWUdcS6451kGQsGsCS3YPMRPAjbDjrn)
 
 7: [ Adriana Mihai, KalpaTech & Passion](https://anchor.fm/citizencosmos/episodes/Adriana-Mihai--KalpaTech--Passion-eemjns)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmRW8AgnviASCm2tiJ95LRbBiTypwTLp1Z9iP2sxpKFMau)
 
 8: [Aragon chain, ChainSafe & DAO](https://anchor.fm/citizencosmos/episodes/Aragon-chain--ChainSafe--DAO-ef1ohv)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmR7QhMymqSiNUJwd5zQyEZxR8qaB37Y7ashMdQEuYJzcZ)
 
  <details>
   <summary>Episode Timeline</summary>
@@ -80,7 +82,7 @@ __List of Episodes:__
 9: [Ethan Buchman, the now and then of Cosmos](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman--the-now-and-then-of-Cosmos-eff5vm)
 
 - [Episode Trailer](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman-trailer-efekii)
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/QmS9LfoQLdR76WhheWzJ4ch7NXm4m75amUNj4FtBQDmye3)
 
 <details>
 <summary>Episode Timeline</summary>
@@ -123,7 +125,7 @@ __List of Episodes:__
 
 10: [ Gregory Landua, Regen Network & ecological regeneration](https://anchor.fm/citizencosmos/episodes/Gregory-Landua--Regen-Network--ecological-regeneration-efv5cq)
 
-- [Web3 link]()
+- [Web3 link](https://ipfs.io/ipfs/Qmc95KpVDtXeBJwkGZ8UbUCF1PzzyiCWjeqdq2iku3SVN8)
 
 <details>
 <summary>Episode Timeline</summary>
