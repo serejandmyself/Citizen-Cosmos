@@ -14,35 +14,35 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 
 __List of Episodes:__
 
-1: [Gavin from Figment Networks. Governance](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8)
+1. [Gavin from Figment Networks. Governance](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8)
 
 - [Web3 link]()
 
-2: [Jack Zampolin, Game of Zones & IBC](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul)
+2. [Jack Zampolin, Game of Zones & IBC](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul)
 
 - [Web3 link]()
 
-3: [Kwun Yeung, Forbole & Desmos](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) 
+3. [Kwun Yeung, Forbole & Desmos](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) 
 
 - [Web3 link]()
 
-4: [Sunny Aggarwal, Tendermint & Sikka](https://anchor.fm/citizencosmos/episodes/Sunny-Aggarwal--Tendermint--Sikka-edpmcj)
+4. [Sunny Aggarwal, Tendermint & Sikka](https://anchor.fm/citizencosmos/episodes/Sunny-Aggarwal--Tendermint--Sikka-edpmcj)
 
 - [Web3 link]()
 
-5: [Lee Hyung Yeon, Bharvest & Data Privacy](https://anchor.fm/citizencosmos/episodes/Lee-Hyung-Yeon--Bharvest--Data-Privacy-ee1vus)
+5. [Lee Hyung Yeon, Bharvest & Data Privacy](https://anchor.fm/citizencosmos/episodes/Lee-Hyung-Yeon--Bharvest--Data-Privacy-ee1vus)
 
 - [Web3 link]()
 
-6: [JK, Stake.Fish, Technology, Cosmos and staking](https://anchor.fm/citizencosmos/episodes/JK--Stake-Fish--tech-adoption-eee4cj)
+6. [JK, Stake.Fish, Technology, Cosmos and staking](https://anchor.fm/citizencosmos/episodes/JK--Stake-Fish--tech-adoption-eee4cj)
 
 - [Web3 link]()
 
-7: [ Adriana Mihai, KalpaTech & Passion](https://anchor.fm/citizencosmos/episodes/Adriana-Mihai--KalpaTech--Passion-eemjns)
+7. [ Adriana Mihai, KalpaTech & Passion](https://anchor.fm/citizencosmos/episodes/Adriana-Mihai--KalpaTech--Passion-eemjns)
 
 - [Web3 link]()
 
-8: [Aragon chain, ChainSafe & DAO](https://anchor.fm/citizencosmos/episodes/Aragon-chain--ChainSafe--DAO-ef1ohv)
+8. [Aragon chain, ChainSafe & DAO](https://anchor.fm/citizencosmos/episodes/Aragon-chain--ChainSafe--DAO-ef1ohv)
 
 - [Web3 link]()
 
