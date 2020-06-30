@@ -1,8 +1,8 @@
-# Citizen-Cosmos
+# Citizen Cosmos
 
 Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, their tech ambitions and personalities. Feel free to like and share any episodes or just leave your comments, feedback and wishes!
 
-[Cover page on Anchor](https://anchor.fm/citizencosmos) | [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss) 
+[Anchor](https://anchor.fm/citizencosmos) | [RSS feed](https://anchor.fm/s/1e2d6720/podcast/rss) 
 
 https://i.postimg.cc/wvQCZ8hg/4962920-1587655187159-beec1fb4620ca.jpg
 
