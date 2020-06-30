@@ -79,6 +79,7 @@ __List of Episodes:__
     
 9: [Ethan Buchman, the now and then of Cosmos](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman--the-now-and-then-of-Cosmos-eff5vm)
 
+- [Episode Trailer](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman-trailer-efekii)
 - [Web3 link]()
 
 <details>
