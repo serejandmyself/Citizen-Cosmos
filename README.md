@@ -30,7 +30,8 @@ __List of Episodes:__
 
 8: [Aragon chain, ChainSafe & DAO](https://anchor.fm/citizencosmos/episodes/Aragon-chain--ChainSafe--DAO-ef1ohv)
 
-```Timeline:
+```
+Timeline:
 
     1.10: Getting started with Cosmos
 
