@@ -15,15 +15,22 @@ Citizen Cosmos is a podcast about the masterminds behind the Cosmos Ecosystem, t
 __List of Episodes:__
 
 1: [Gavin from Figment Networks. Governance](https://anchor.fm/citizencosmos/episodes/Gavin-from-Figment-Networks--Governance-ed5jm8)
+
 2: [Jack Zampolin, Game of Zones & IBC](https://anchor.fm/citizencosmos/episodes/Jack-Zampolin--Game-of-Zones--IBC-ed5jul)
+
 3: [Kwun Yeung, Forbole & Desmos](https://anchor.fm/citizencosmos/episodes/Kwun-Yeung--Forbole--Desmos-edesno) 
+
 4: [Sunny Aggarwal, Tendermint & Sikka](https://anchor.fm/citizencosmos/episodes/Sunny-Aggarwal--Tendermint--Sikka-edpmcj)
+
 5: [Lee Hyung Yeon, Bharvest & Data Privacy](https://anchor.fm/citizencosmos/episodes/Lee-Hyung-Yeon--Bharvest--Data-Privacy-ee1vus)
+
 6: [JK, Stake.Fish, Technology, Cosmos and staking](https://anchor.fm/citizencosmos/episodes/JK--Stake-Fish--tech-adoption-eee4cj)
+
 7: [ Adriana Mihai, KalpaTech & Passion](https://anchor.fm/citizencosmos/episodes/Adriana-Mihai--KalpaTech--Passion-eemjns)
+
 8: [Aragon chain, ChainSafe & DAO](https://anchor.fm/citizencosmos/episodes/Aragon-chain--ChainSafe--DAO-ef1ohv)
 
-Timeline:
+```Timeline:
 
     1.10: Getting started with Cosmos
 
@@ -50,5 +57,8 @@ Timeline:
     46.35: Problems which can be solved by a DAO
 
     51.10: Inspirational projects using Aragon DAOs
+```
+    
 9. [Ethan Buchman, the now and then of Cosmos](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman--the-now-and-then-of-Cosmos-eff5vm)
+
 10. [ Gregory Landua, Regen Network & ecological regeneration](https://anchor.fm/citizencosmos/episodes/Gregory-Landua--Regen-Network--ecological-regeneration-efv5cq)
